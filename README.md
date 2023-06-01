@@ -141,13 +141,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Home Page
-<img src="./ScreenShorts/Home.png">
+<img src="./ScreenShots/Home.png">
 
 ### Dropdown List
-<img src="./ScreenShorts/dropdown_list.png">
+<img src="./ScreenShots/dropdown_list.png">
 
 ### Displaying Selected option from dropdown list
-<img src=".ScreenShorts/Displaying_result.png">
+<img src=".ScreenShots/Displaying_result.png">
 
 
 
