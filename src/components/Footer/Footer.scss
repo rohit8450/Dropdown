@@ -1,0 +1,19 @@
+
+.myfooter {
+	position: absolute;
+    top: 180vh;
+	left: 0;
+	bottom: 0;
+    height: 70px;
+	width: 100%;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p{
+        font-size: 20px;
+        text-align: center;
+    }
+}
