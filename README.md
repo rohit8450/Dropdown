@@ -147,7 +147,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img src="./ScreenShots/dropdown_list.png">
 
 ### Displaying Selected option from dropdown list
-<img src=".ScreenShots/Displaying_result.png">
+<img src="./ScreenShots/Displaying_result.png">
 
 
 
